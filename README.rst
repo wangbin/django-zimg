@@ -40,6 +40,6 @@ Quick Start
      {% load zimg %}
      <img src="{% zimg pic.pic.url w=300 h=300 g=1 x=0 y=0 r=45 q=85 f=jpeg %}" />
 
-    Check `Zimg GuideBook`_ for the usage of each parameters.
+   Check `Zimg GuideBook`_ for the usage of each parameters.
 
 .. _`Zimg GuideBook`: http://zimg.buaa.us/documents/guidebook/
